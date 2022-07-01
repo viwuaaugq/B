@@ -1,1 +1,1 @@
-web: python3 checker_stats.py
+web: python3 token_info.py

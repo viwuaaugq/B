@@ -4,7 +4,7 @@ from telebot import types
 import flask
 import logging
 from flask import Flask,request
-
+import os,sys,random
 tk = "5571315977:AAG7UZIUAAHqst4EkR-u7W3J4ApUn_d2hxE"
 bot = telebot.TeleBot(tk)
 

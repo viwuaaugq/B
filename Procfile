@@ -1,1 +1,1 @@
-web: python3 token_info.py
+web: python3 botinfo.py
